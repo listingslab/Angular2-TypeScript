@@ -1,6 +1,6 @@
-# Angular2 Starter [![Join the chat at https://gitter.im/EladRK/angular-starter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/EladRK/angular-starter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+# Angular2-TypeScript
 
-A starter template for Angular2 applications.
+A starter template for Angular2 applications written in TypeScript.
 
 > This starter uses [gulp.js](http://gulpjs.com/) for a build workflow.
 
@@ -18,6 +18,9 @@ All you need to run this starter is [node.js](https://nodejs.org/) installed. An
 * `$ npm start`
 
 ## Creators
+
+**Chris Dorward**
+- <https://github.com/listingslab>
 
 **Elad Katz**
 
